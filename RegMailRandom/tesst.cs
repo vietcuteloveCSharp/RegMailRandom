@@ -11,6 +11,7 @@ namespace RegMailRandom
         static void Main()
         {
             Console.WriteLine("Xin chao bạn");
+            Console.WriteLine("hi");
         }
     }
 }
